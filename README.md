@@ -8,7 +8,7 @@ Welcome to `MediMetrics`, a revolutionary healthcare data visualization tool dev
 
 - **Mujaddad Fazeel** - Full Stack Developer
 - **Hamzah Khan** - Software Engineer
-- **Mubtasim Ahmed** - Frontend Developer
+- **Mubtasim Ahmed Rakheen** - Frontend Developer
 
 ## Technologies Used
 
