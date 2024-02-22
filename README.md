@@ -12,11 +12,9 @@ Welcome to `MediMetrics`, a revolutionary healthcare data visualization tool dev
 
 ## Technologies Used
 
-- **Frontend**: React, JavaScript, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Data Visualization**: Recharts, d3.js
-- **Version Control**: Git
+- **Frontend: React, JavaScript, Tailwind CSS**
+- **Data Visualization: Recharts, d3.js**
+- **Version Control: Git**
 
 ## Features
 
@@ -44,6 +42,11 @@ npm install
 # Run the Application
 npm run dev
 ```
+
+## Screenshots
+![Screenshot 2024-02-22 102331](https://github.com/Mrakheen/MediMetrics-Hack-Headstarter-Project/assets/53326887/ddb12154-2e5c-4a73-a370-108ce93cd50e)
+
+![Screenshot 2024-02-22 102534](https://github.com/Mrakheen/MediMetrics-Hack-Headstarter-Project/assets/53326887/ed539a8c-0a9a-4026-8632-c2059114e78b)
 
 ## Acknowledgements
 We extend our gratitude to Yasin, and all who supported us during this hackathon.
