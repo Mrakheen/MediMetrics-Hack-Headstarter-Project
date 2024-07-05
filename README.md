@@ -1,6 +1,6 @@
 # MediMetrics
 
-## Introduction
+## Concept
 
 Welcome to `MediMetrics`, a revolutionary healthcare data visualization tool developed for `HeadStarter Hackathon`. Our solution provides insightful and interactive visual representations of healthcare data, addressing key challenges in data accessibility and comprehension in the medical field.
 
